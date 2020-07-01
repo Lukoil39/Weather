@@ -1,6 +1,5 @@
 package naillibip.firstapp.weather.activity;
 
-import android.content.res.Configuration;
 import android.os.Bundle;
 
 import naillibip.firstapp.weather.fragments.TempScreenFragment;
