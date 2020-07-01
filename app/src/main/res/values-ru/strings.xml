@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="temperature">Температура: </string>
+    <string name="feels_like">Чувствуется как: </string>
+    <string name="show_humidity">Показывать влажность</string>
+    <string name="show_overcast">Показывать облачность</string>
+    <string name="humidity">Влажность:</string>
+    <string name="overcast">Облачность:</string>
+    <string name="get_temp">Получить температуру</string>
+    <string name="sunny">Солнечно</string>
+    <string name="cloudy">Облачно</string>
+    <string name="partly_cloudy">Частичная облачность</string>
+    <string name="photo_of_a_city">Фотография города</string>
+    <string name="change_city_button">Кнопка смены города</string>
+    <string name="choose_city">Выберите город</string>
+    <string name="update_weather">Обновить погоду</string>
+    <string name="settings">Настройки</string>
+    <string name="city_not_found">Город не найден</string>
+    <string name="empty_list">Пустой список</string>
+    <string name="updating">Обновляем погоду…</string>
+    <string name="moscow">Москва</string>
+    <string name="spb">Санкт-Петербург</string>
+    <string name="add">Добавить</string>
+    <string name="remove">Убрать</string>
+    <string name="choose_city_only_english">Название города (только на английском)</string>
+    <string name="weather_last_week">Погода на прошлой неделе:</string>
+    <string name="go_back">Назад</string>
+    <string name="delete_city">Удалить город</string>
+    <string name="dark_theme">Темная тема</string>
+    <string-array name="cities_array">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+    </string-array>
+</resources>

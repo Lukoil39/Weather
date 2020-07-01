@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name" translatable="false">Weather</string>
+    <string name="open_weather_map_app_id" translatable="false">deefc995768d3410555be4799e2829fc</string>
+    <string name="today">today</string>
+    <string name="tomorrow">tomorrow</string>
+    <string name="temperature">Temperature: </string>
+    <string name="feels_like">feels like: </string>
+    <string name="photo_of_a_city">Photo of a city</string>
+    <string name="degree" translatable="false">°</string>
+    <string name="show_humidity">Show humidity</string>
+    <string name="show_overcast">Show overcast</string>
+    <string name="humidity">Humidity:</string>
+    <string name="overcast">Overcast:</string>
+    <string name="get_temp">Get Temp</string>
+    <string name="sunny">Sunny</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="partly_cloudy">Partly Cloudy</string>
+    <string name="change_city_button">Change city button</string>
+    <string name="choose_city">Choose city</string>
+    <string name="update_weather">Update weather</string>
+    <string name="settings">Settings</string>
+    <string name="city_not_found">City not found</string>
+    <string name="empty_list">Empty List</string>
+    <string name="updating">Updating the weather…</string>
+    <string name="moscow">Moscow</string>
+    <string name="spb">Saint Petersburg</string>
+    <string name="add">add</string>
+    <string name="remove">remove</string>
+    <string name="choose_city_only_english">Choose city (only english)</string>
+    <string name="weather_last_week">Weather last week:</string>
+    <string name="go_back">Go back</string>
+    <string name="delete_city">Delete city</string>
+    <string name="dark_theme">Dark theme</string>
+    <string-array name="cities_array">
+        <item>Moscow</item>
+        <item>Saint-Petersburg</item>
+        <item>Kazan</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
